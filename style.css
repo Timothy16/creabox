@@ -1,0 +1,120 @@
+.bg{
+    background-position: center;
+    background-size: cover;
+    background-image: url("images/sec1\ image.PNG");
+    min-height: 80%;
+
+    /* background: red; */
+}
+.bg_all{
+    /* background-position: center; */
+    /* background-size: cover; */
+    background-image: url("images/bg.PNG");
+    /* min-height: 80%; */
+
+    /* background: red; */
+}
+#radius{
+    border-radius: 20px;
+    color: white;
+}
+#radius_2{
+    border-radius: 20px;
+  
+}
+.shawdow{
+    box-shadow: 5px 5px 5px 5px rgb(233, 229, 229);
+    border-radius: 15px;
+    padding: 50px 10px 10px 20px;
+    /* height: 50%; */
+}
+.awesome{
+    font-size: 30px;
+    color: brown;
+}
+.awesome_2{
+    font-size: 30px;
+    /* color: brown; */
+}
+.awesome_3{
+    font-size: 30px;
+    color: gold;
+}
+.height{
+    height: 50%;
+    background: transparent;
+}
+.bg_2{
+    background-position: center;
+    background-size: cover;
+    background-image: url("img/images\ \(23\)\.jpeg");
+    min-height: 30%;
+    /* background: red; */
+}
+/* .bg_grey{
+    background-color: lightgrey;
+} */
+.bg_customer{
+    background-color:rgba(61,61,182,0.734);
+    color: white;
+}
+.pad{
+    padding: 50px 10px 10px 20px;
+}
+.pad_1{
+    padding: 70px 10px 10px 20px;
+}
+.pad_hi{
+    height: 50%;
+}
+.bg_pink{
+    border-radius: 20px;
+    background-color: rgb(241, 206, 212);
+}
+#nav_color{
+    color:rgb(32, 6, 56) !important;
+}
+input[type=text]{
+    width: 50% !important;
+  
+    outline: none;
+  
+    height: 60px !important; 
+    
+    border-radius: 50px !important; 
+    /* background-color: white; 
+    font-weight: normal; 
+    border-width: thin;
+    font-family: sans-serif; font-style: normal; */
+}
+.button{
+    width: 30%;
+    height: 80% !important;
+    margin-left: -33%;
+    position: absolute;
+    text-align: center !important;
+    border-radius: 50px !important; 
+    background-color: gold !important;
+    font-size: 20px !important;
+    color: white !important;
+    outline: none;
+}
+.footer{
+    background-color:rgba(61,61,182,0.734);
+    color: white;
+    font-size: 20px !important;
+}
+::-webkit-input-placeholder{
+   
+    padding-left: 20px;
+    font-size: 15px;
+   
+}
+.last_box{
+    background-color: whitesmoke !important;
+}
+.circle{
+    color: red;
+    padding-left:15px;
+    /* margin-top: 5px; */
+}
